@@ -1,0 +1,15 @@
+{
+  "name": "node-neo4j-template-coffee",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0rc4",
+    "jade": "*",
+    "neo4j": "~0.2.19",
+    "validator": "~0.4.13",
+    "async": "~0.1.22"
+  }
+}
